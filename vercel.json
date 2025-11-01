@@ -1,0 +1,1 @@
+{"version":2,"builds":[{"src":"frontend/package.json","use":"@vercel/next"}],"routes":[// Example rewrite for API proxy (uncomment and change if you need it) // { "src": "/api/(.*)", "dest": "https://api.yourdomain.com/api/$1" }]}
